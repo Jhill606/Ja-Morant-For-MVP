@@ -3,7 +3,11 @@ body {
     height: 100%;
     font-size:1rem;
 }
-gradient{
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(106,0,210,1) 100%);   
+gradient {
+    background: rgb(0,97,242);
+    background: linear-gradient(
+        135deg,
+         rgba(0,97,242,1) 0%,
+        rgba(105,0,199,1) 100%
+        );   
 }
