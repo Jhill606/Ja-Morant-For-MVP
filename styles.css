@@ -8,8 +8,15 @@ body {
   background: rgb(0, 97, 242);
   background: linear-gradient(
     135deg,
-    rgba(0, 97, 242, 1) 0%,
-    rgba(105, 0, 199, 1) 100%
+    rgb(0, 87, 216) 0%,
+    rgb(90, 0, 168) 100%
   );
+}
+
+.page-header {
+  margin-top: 4rem;
+  font-size: 1.25rem;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
 }
 
