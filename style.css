@@ -17,11 +17,11 @@ body {
 .page-header {
   margin-top: 4rem;
   font-size: 1.25rem;
-  color: #fff;
+  background-color:blueviolet;
 }
 
 .feature {
-  color: #fff;
+  background-color:blueviolet;
 }
 
 .feature ul {
@@ -38,7 +38,7 @@ body {
 }
 
 .icon {
-  color: #fff;
+  color: black;
   height: 5rem;
   width: 5rem;
   font-size: 1.75rem;
@@ -49,7 +49,7 @@ body {
 }
 
 .gallery {
-  background-color: whitesmoke;
+  background-color: blueviolet;
 }
 
 .gallery img {
